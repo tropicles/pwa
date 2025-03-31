@@ -1,12 +1,12 @@
 // service-worker.js
 const CACHE_NAME = 'pwa-cache-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/styles.css',
-  '/script.js',
-  '/icons/icon-48x48.png',
-  '/icons/icon-72x72.png'
+  './',
+  './index.html',
+  './styles.css',
+  './script.js',
+  './icons/icon-48x48.png',
+  './icons/icon-72x72.png'
 
 ];
 
